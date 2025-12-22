@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m Rémi, a passionate language learner (fluent in Japanese, Chinese, and Korean) and aspiring full-stack web developer.
+I’m Rémi, a passionate language learner and aspiring full-stack web developer.
 
-I am currently training as a Web Developer at O’clock, where I design and build modern web applications using HTML, CSS, JavaScript, Git, Svelte, React, and Node.js.
+I am currently training as a Web Developer at O’clock, where I design and build modern web applications using HTML, CSS, JavaScript, Git, Svelte, SQL, React, and Node.js.
 
 I focus on creating accessible, structured, and dynamic projects, applying best practices in both front-end and back-end development.
 
